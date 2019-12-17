@@ -1,0 +1,17 @@
+.my-map{
+    margin-right: 50px;
+    width: 66%;
+    height: 500px;
+}
+
+@media (max-width: 1200px){
+    .my-map{
+        margin-right: 0;
+    }
+}
+
+@media (max-width: 600px){
+    .my-map{
+        width: 100%;
+    }
+}

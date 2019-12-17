@@ -1,0 +1,4 @@
+.route-point {
+  display: flex;
+  justify-content: space-between;
+}
